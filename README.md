@@ -14,7 +14,7 @@ HOW TO USE :-
 		
 2.STEPs TO USE : -  
     DOWNLOAD gamecast.exe,video_converter.py and png.cpp, and store it in one folder  
-    RUN gamecast.exe file and let it run in the back ground (NO GUI WILL BE DISPLAYED)  
+    RUN gamecast.exe file and let it run in the back ground (make this step 2-3 minutes before starting your work or game)(NO GUI WILL BE DISPLAYED)  
     when ever u need instant replay of your recent activity just press and hold 'Alt'+'Q' keys untill cmd runs  
     wait till the video renders  
     after video is rendered it will be saved in your current directory(where you have stored gamecast.exe and video_converter.py)  
