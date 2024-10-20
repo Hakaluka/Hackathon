@@ -36,7 +36,7 @@ def images_to_video(image_folder, video_name, fps):
 # Example usage
 image_folder = current_directory+ '/screenshot'
 video_name = 'output_video.avi'
-fps = 28 # Frames per second
+fps = 18 # Frames per second
 
 images_to_video(image_folder, video_name, fps)
 import shutil; shutil.rmtree(current_directory+ "\\screenshot\\")
