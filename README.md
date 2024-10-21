@@ -3,8 +3,8 @@ For syntax error
 
 Made by:- MAN FOURS CODED  
 
-MEMBERS:- EKAMJOT SINGH SANDHU (24116032)  
-          ARYAN JAIN (24116017)  
+MEMBERS:- EKAMJOT SINGH SANDHU (24116032)  -sandhuekam(0xusername)
+          ARYAN JAIN (24116017)  -treggg(0xusername)
           AGRIM BHANOT (24116007)  
           NAMAN GUPTA (24116059)  
 					
